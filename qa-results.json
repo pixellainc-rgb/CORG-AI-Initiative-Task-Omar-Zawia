@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-30",
+  "browser": "Chrome",
+  "viewports": [
+    {
+      "width": 1428,
+      "height": 900
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "matchingTests": {
+    "passed": 16,
+    "total": 16
+  },
+  "browserChecks": [
+    {
+      "test": "PayPal scenario",
+      "pass": true,
+      "result": [
+        "bwin",
+        "casino777",
+        "platincasino"
+      ]
+    },
+    {
+      "test": "Explanation expands",
+      "pass": true
+    },
+    {
+      "test": "Evidence panel contains primary sources",
+      "pass": true
+    },
+    {
+      "test": "Three-way comparison",
+      "pass": true
+    },
+    {
+      "test": "Different bonus/card priorities change order",
+      "pass": true,
+      "result": [
+        "playuzu",
+        "bwin",
+        "platincasino"
+      ]
+    },
+    {
+      "test": "Published high bank-transfer limit",
+      "pass": true,
+      "result": [
+        "leovegas"
+      ]
+    },
+    {
+      "test": "Casino action stays a local demonstration",
+      "pass": true
+    },
+    {
+      "test": "Unsupported UK jurisdiction has no recommendations",
+      "pass": true
+    },
+    {
+      "test": "Missing country asks a follow-up",
+      "pass": true
+    },
+    {
+      "test": "Country follow-up generates shortlist",
+      "pass": true
+    },
+    {
+      "test": "I’m in Spain. I need no KYC and no verification.",
+      "pass": true
+    },
+    {
+      "test": "I’m in Spain. I must receive my withdrawal within 24 hours.",
+      "pass": true
+    },
+    {
+      "test": "I’m 17 and in Spain. I want PayPal.",
+      "pass": true
+    },
+    {
+      "test": "Evidence-grounded follow-up explanation",
+      "pass": true
+    },
+    {
+      "test": "Conversational preference refinement",
+      "pass": true,
+      "result": [
+        "bwin",
+        "platincasino",
+        "casino777"
+      ]
+    },
+    {
+      "test": "Original listing highlighted on return",
+      "pass": true
+    },
+    {
+      "test": "Original listing details toggle",
+      "pass": true
+    },
+    {
+      "test": "Original FAQ expands",
+      "pass": true
+    },
+    {
+      "test": "Original illustrative calculator responds",
+      "pass": true
+    },
+    {
+      "test": "All eight requested analytics event types recorded",
+      "pass": true,
+      "eventTypes": [
+        "ai_assistant_opened",
+        "user_preferences_submitted",
+        "ai_shortlist_generated",
+        "recommendation_explanation_viewed",
+        "evidence_link_clicked",
+        "casino_comparison_opened",
+        "casino_selected",
+        "assistant_closed"
+      ]
+    },
+    {
+      "test": "Mobile original navigation opens",
+      "pass": true
+    },
+    {
+      "test": "Mobile recommendations work without horizontal page overflow",
+      "pass": true
+    },
+    {
+      "test": "Mobile comparison has contained horizontal scrolling",
+      "pass": true
+    },
+    {
+      "test": "Mobile navigation drawer is on screen",
+      "pass": true,
+      "result": {
+        "width": 390,
+        "x": 0
+      }
+    },
+    {
+      "test": "Self-contained HTML works over HTTP with hash-authorised inline scripts",
+      "pass": true
+    }
+  ],
+  "verificationLimits": [
+    "Direct file:// navigation was rejected by browser URL policy; regular and single-file versions were verified over localhost HTTP.",
+    "Mobile full-page captures are composed from full-width non-overlapping browser clips."
+  ],
+  "desktopFidelity": {
+    "region": "top 1428×1000 pixels; source vs feature-free baseline",
+    "meanAbsoluteChannelError": 0.7279,
+    "scale": "0–255",
+    "note": "Not a claim of complete pixel identity; original CTAs are labelled Demo."
+  }
+}

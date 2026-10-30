@@ -1,0 +1,1799 @@
+/* Evidence captured on 2026-10-30. No live claims or keys. */
+window.CASINO_DATA = {
+  "schemaVersion": 1,
+  "accessedAt": "2026-10-30",
+  "scope": "Spain-only supporting evidence for the exact ten operators in parent browser snapshot; desktop research, no accounts, payments or gameplay tested.",
+  "sources": [
+    {
+      "id": "reference",
+      "url": "https://www.casino.org/payment/fastest-withdrawals/",
+      "title": "Casino.org reference listing",
+      "accessedAt": "2026-10-30",
+      "note": "browser snapshot provided by parent; this research did not reorder its operators"
+    },
+    {
+      "id": "platin-reg",
+      "url": "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/8pe-espana-plc",
+      "title": "DGOJ: 8PE España",
+      "accessedAt": "2026-10-30",
+      "note": "Domain platincasino.es and casino licence categories"
+    },
+    {
+      "id": "platin-terms",
+      "url": "https://www.platincasino.es/terminos-y-condiciones",
+      "title": "Platincasino terms",
+      "accessedAt": "2026-10-30",
+      "note": "Displayed December 2024 update; processing and identity conditions"
+    },
+    {
+      "id": "platin-faq",
+      "url": "https://www.platincasino.es/preguntas-frecuentes",
+      "title": "Platincasino FAQ",
+      "accessedAt": "2026-10-30",
+      "note": "Bank settlement and account/payment verification; some unrelated copy appears stale"
+    },
+    {
+      "id": "platin-pay",
+      "url": "https://www.platincasino.es/proveedores-de-pago-online",
+      "title": "Platincasino payment providers",
+      "accessedAt": "2026-10-30",
+      "note": "Separate deposits and withdrawals tables; conflicting timing tables on same page"
+    },
+    {
+      "id": "bwin-guide",
+      "url": "https://www.bwin.es/es/sports/news/retirar-dinero/",
+      "title": "bwin: how to withdraw",
+      "accessedAt": "2026-10-30",
+      "note": "Published 4 July 2023; accessed live; includes .es licensing disclosure"
+    },
+    {
+      "id": "bwin-contact",
+      "url": "https://www.bwin.es/es/myaccount/contact/withdrawal",
+      "title": "bwin help and contact",
+      "accessedAt": "2026-10-30",
+      "note": "Live notice of payment-method verification delays; do not assume normal processing always applies"
+    },
+    {
+      "id": "777-reg",
+      "url": "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/digital-distribution-management-iberica-sa",
+      "title": "DGOJ: Digital Distribution Management Ibérica",
+      "accessedAt": "2026-10-30",
+      "note": "Domain casino777.es and licence categories"
+    },
+    {
+      "id": "777-terms",
+      "url": "https://www.casino777.es/condiciones",
+      "title": "Casino777 terms",
+      "accessedAt": "2026-10-30",
+      "note": "Residence, KYC, processing, active-bonus and large-payment restrictions"
+    },
+    {
+      "id": "777-help",
+      "url": "https://ayuda.casino777.es/hc/es/articles/30373608156701-Plazos-estimados-de-retiro-en-Casino777-es",
+      "title": "Casino777 withdrawal arrival times",
+      "accessedAt": "2026-10-30",
+      "note": "Explicitly measures arrival after approval, rather than end-to-end time"
+    },
+    {
+      "id": "skill-reg",
+      "url": "https://ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/skill-net-sa",
+      "title": "DGOJ: Skill On Net",
+      "accessedAt": "2026-10-30",
+      "note": "Explicitly lists playuzu.es and 44-aces.es"
+    },
+    {
+      "id": "tony-reg",
+      "url": "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/eurobox-sa",
+      "title": "DGOJ: Eurobox",
+      "accessedAt": "2026-10-30",
+      "note": "Explicitly lists tonybet.es"
+    },
+    {
+      "id": "tony-pay",
+      "url": "https://blog.tonybet.es/other-casino/metodos-pago-tonybet-espana-depositos-retiradas/",
+      "title": "TonyBet official payment guide",
+      "accessedAt": "2026-10-30",
+      "note": "Published 13 August 2026; operator blog, not independent payment test"
+    },
+    {
+      "id": "uzu-help",
+      "url": "https://www.playuzu.es/ayuda/",
+      "title": "PlayUZU FAQ",
+      "accessedAt": "2026-10-30",
+      "note": "Published majority/minutes claim, wagering policy and conflicting document-review targets"
+    },
+    {
+      "id": "uzu-pay",
+      "url": "https://www.playuzu.es/metodos-de-pagos/",
+      "title": "PlayUZU banking page",
+      "accessedAt": "2026-10-30",
+      "note": "Visible method-specific cards only for Visa and Mastercard in accessible response"
+    },
+    {
+      "id": "gran-reg",
+      "url": "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/esgaming-sau",
+      "title": "DGOJ: Esgaming",
+      "accessedAt": "2026-10-30",
+      "note": "Lists granmadrid.es, casinogranmadridonline.es and other exact domains"
+    },
+    {
+      "id": "gran-help",
+      "url": "https://granmadrid.zendesk.com/hc/es/articles/39830465683985-Preguntas-r%C3%A1pidas",
+      "title": "Gran Madrid quick questions",
+      "accessedAt": "2026-10-30",
+      "note": "Account identity activation may take several days during high demand"
+    },
+    {
+      "id": "betinia-reg",
+      "url": "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/iberix-gaming-sa-unipersonal",
+      "title": "DGOJ: Iberix Gaming",
+      "accessedAt": "2026-10-30",
+      "note": "Explicitly lists betinia.es"
+    },
+    {
+      "id": "betinia-home",
+      "url": "https://betinia.es/es/",
+      "title": "Betinia Spain homepage",
+      "accessedAt": "2026-10-30",
+      "note": "Spanish operator, casino categories and age disclosure; payment logos alone not withdrawal proof"
+    },
+    {
+      "id": "betinia-terms",
+      "url": "https://betinia.es/es/rules",
+      "title": "Betinia terms",
+      "accessedAt": "2026-10-30",
+      "note": "Section 7.4 separates processing from additional identity and payment checks"
+    },
+    {
+      "id": "betinia-pay",
+      "url": "https://betinia.es/es/payments",
+      "title": "Betinia payments",
+      "accessedAt": "2026-10-30",
+      "note": "Accessible response says no payments found; method availability not inferred"
+    },
+    {
+      "id": "luckia-reg",
+      "url": "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/luckia-games-sa",
+      "title": "DGOJ: Luckia Games",
+      "accessedAt": "2026-10-30",
+      "note": "Lists luckia.es and licence categories; operator website returned HTTP451"
+    },
+    {
+      "id": "leo-reg",
+      "url": "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/leoesp-sa",
+      "title": "DGOJ: LeoEsp",
+      "accessedAt": "2026-10-30",
+      "note": "Explicitly lists leovegas.es"
+    },
+    {
+      "id": "leo-help",
+      "url": "https://help.leovegas.com/hc/es/articles/206745159-Retiradas-de-fondos-en-LeoVegas-Todo-lo-que-necesitas-saber",
+      "title": "LeoVegas Spain withdrawals",
+      "accessedAt": "2026-10-30",
+      "note": "Method-specific amounts and general processing estimate; footer ties to LeoEsp and Spain"
+    },
+    {
+      "id": "leo-rg",
+      "url": "https://www.leovegas.es/juego-responsable",
+      "title": "LeoVegas Spain responsible play",
+      "accessedAt": "2026-10-30",
+      "note": "Documentary identity verification is required before withdrawals"
+    }
+  ],
+  "rules": {
+    "jurisdictionGate": "Only ES is evidenced. Exclude all operators for any other country, unknown country, or unmet individual eligibility. Never generalise .es evidence to .com variants.",
+    "unknownFields": "null is not verified, not a negative claim. A user insisting on an unverified hard requirement should get fewer or zero matches.",
+    "timing": "Keep operator processing separate from post-approval settlement. Published targets and majority claims are not guarantees or own tests.",
+    "ranking": "Reference ranking is for replica only. Recommendation order must depend on evidenced attributes, missing-data penalties and user preferences.",
+    "games": "Licence categories establish regulatory permission, not present catalogue; only operator-visible categories stored as games.",
+    "bonus": "Published no-wagering policy does not mean no conditions. Never display a current bonus amount without current offer-specific terms.",
+    "verification": "No operator in this dataset is evidenced as verification-free. Do not promise delayed/avoided KYC."
+  },
+  "operators": [
+    {
+      "id": "platincasino",
+      "name": "Platincasino",
+      "ranking": {
+        "value": 1,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.platincasino.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/8pe-espana-plc"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "8PE España PLC",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/8pe-espana-plc"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/8pe-espana-plc"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/ddf386bdf3977d31.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": [
+          "PayPal",
+          "Apple Pay",
+          "Google Pay",
+          "Visa",
+          "Mastercard",
+          "Bank transfer"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.platincasino.es/proveedores-de-pago-online"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "These are explicitly in the withdrawals table. Bizum is shown only in its deposits table; do not label it a withdrawal method. Lower generic table additionally names Skrill/Neteller/Trustly/Paysafecard; because the two tables differ, omit those from confirmed shortlist matching."
+      },
+      "withdrawalTiming": {
+        "value": {
+          "processing": "Within 24 hours, subject to terms and verification",
+          "bankSettlement": "Usually 1–3 business days",
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.platincasino.es/terminos-y-condiciones",
+          "https://www.platincasino.es/preguntas-frecuentes"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Payment page separately labels some methods immediate and others 24h, but lower copy says PayPal pending confirmation. Do not promise instant end-to-end withdrawals."
+      },
+      "withdrawalLimits": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "verification": {
+        "value": "Identity and payment methods must be verified before withdrawals.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.platincasino.es/preguntas-frecuentes"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "bonus": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Current offer-specific wagering and eligibility not verified. FAQ contains examples and older welcome-bonus policy; do not promote those as a current offer."
+      },
+      "games": {
+        "value": [
+          "slots",
+          "roulette",
+          "blackjack",
+          "live casino"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.platincasino.es/terminos-y-condiciones"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Categories visible in navigation; not a full catalogue audit."
+      },
+      "restrictions": [
+        {
+          "value": "Normally return funds to the depositing method; FAQ also states last deposit must be wagered once.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.platincasino.es/preguntas-frecuentes"
+          ],
+          "accessedAt": "2026-10-30"
+        },
+        {
+          "value": "Public timing descriptions conflict; account-level method and settlement details require confirmation.",
+          "verified": true,
+          "confidence": "medium",
+          "sourceUrls": [
+            "https://www.platincasino.es/proveedores-de-pago-online"
+          ],
+          "accessedAt": "2026-10-30"
+        }
+      ],
+      "missingData": [
+        "Method-specific withdrawal limits",
+        "Current bonus amount/eligibility",
+        "Verified end-to-end payout SLA"
+      ],
+      "reference": {
+        "sourceSlug": "platin",
+        "name": "Platincasino",
+        "ranking": 1,
+        "publishedPayout": "Instantáneo",
+        "publishedWinRate": "98.60",
+        "logo": "assets/ddf386bdf3977d31.webp",
+        "sourcePaymentLogos": [
+          "bizum",
+          "paypal",
+          "googlepay",
+          "applepay",
+          "visa",
+          "mastercard",
+          "klarna",
+          "paysafecard"
+        ],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-platin"
+    },
+    {
+      "id": "bwin",
+      "name": "bwin Casino",
+      "ranking": {
+        "value": 2,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.bwin.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/sports/news/retirar-dinero/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "ElectraWorks (Ceuta) SA",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/sports/news/retirar-dinero/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/sports/news/retirar-dinero/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/3a4af2eb3c54872d.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": [
+          "Visa",
+          "PayPal",
+          "Paysafecard",
+          "Bank transfer"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/sports/news/retirar-dinero/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Guide explicitly describes withdrawals; not inferred from payment logos."
+      },
+      "withdrawalTiming": {
+        "value": {
+          "processing": "Internal review up to 24 hours, Monday–Friday; escalation can extend this",
+          "settlement": "Additional method-dependent time; not verified",
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/sports/news/retirar-dinero/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "withdrawalLimits": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "verification": {
+        "value": "Payment-method verification is required to permit withdrawal; contact page displays delays.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/myaccount/contact/withdrawal"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "bonus": {
+        "value": "Any applicable bonus restrictions must be satisfied; offer-specific wagering is not established.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/sports/news/retirar-dinero/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "games": {
+        "value": [
+          "slots",
+          "roulette",
+          "blackjack",
+          "live casino",
+          "poker"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.bwin.es/es/sports/news/retirar-dinero/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Casino links visible in navigation."
+      },
+      "restrictions": [
+        {
+          "value": "May return withdrawals to original deposit methods up to deposited amount.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.bwin.es/es/sports/news/retirar-dinero/"
+          ],
+          "accessedAt": "2026-10-30"
+        },
+        {
+          "value": "Verification-delay notice was present; 24 hours is not a guaranteed total payout time.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.bwin.es/es/myaccount/contact/withdrawal"
+          ],
+          "accessedAt": "2026-10-30"
+        }
+      ],
+      "missingData": [
+        "Method-specific settlement times and limits",
+        "Current bonus rules",
+        "Regulator detail page unavailable in this fetch; eligibility instead supported by official Spanish licensing footer"
+      ],
+      "reference": {
+        "sourceSlug": "bwin",
+        "name": "bwin Casino",
+        "ranking": 2,
+        "publishedPayout": "Promedio (<3 días)",
+        "publishedWinRate": "98.4",
+        "logo": "assets/3a4af2eb3c54872d.webp",
+        "sourcePaymentLogos": [
+          "mastercard",
+          "visa",
+          "paypal",
+          "banktransfer",
+          "applepay",
+          "paysafecard",
+          "skrill",
+          "neteller"
+        ],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-bwin"
+    },
+    {
+      "id": "casino777",
+      "name": "Casino777",
+      "ranking": {
+        "value": 3,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.casino777.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/digital-distribution-management-iberica-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "Digital Distribution Management Ibérica SA",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/digital-distribution-management-iberica-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/digital-distribution-management-iberica-sa"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/025f08188dfe2f32.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": [
+          "Bank transfer",
+          "Card",
+          "PayPal",
+          "Paysafecard",
+          "Skrill",
+          "Neteller",
+          "Google Pay",
+          "Apple Pay"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ayuda.casino777.es/hc/es/articles/30373608156701-Plazos-estimados-de-retiro-en-Casino777-es"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "withdrawalTiming": {
+        "value": {
+          "processing": "24 hours if terms satisfied; additional checks for amounts over 10,000",
+          "settlementAfterApproval": {
+            "bankTransfer": "Up to 72 business hours",
+            "cardsAndListedWallets": "Usually immediate or within 24 hours"
+          },
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ayuda.casino777.es/hc/es/articles/30373608156701-Plazos-estimados-de-retiro-en-Casino777-es",
+          "https://www.casino777.es/condiciones"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "withdrawalLimits": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "verification": {
+        "value": "No withdrawal while documentary identity verification is pending; payment ownership may also require documents.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.casino777.es/condiciones"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "bonus": {
+        "value": "Cannot request withdrawal with an active bonus: complete it or cancel it; cancellation removes related winnings.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.casino777.es/condiciones"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "games": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "restrictions": [
+        {
+          "value": "Spanish residence required by registration terms. Withdrawals may be split proportionally across methods used to deposit during the last six months.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.casino777.es/condiciones"
+          ],
+          "accessedAt": "2026-10-30"
+        },
+        {
+          "value": "Amounts above 10,000 require additional checks and take longer than standard processing.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.casino777.es/condiciones"
+          ],
+          "accessedAt": "2026-10-30"
+        }
+      ],
+      "missingData": [
+        "Numeric method-specific minimum/maximum withdrawal amounts",
+        "Current offer-specific wagering",
+        "Independent payment tests"
+      ],
+      "reference": {
+        "sourceSlug": "casino777",
+        "name": "Casino777",
+        "ranking": 3,
+        "publishedPayout": "Instantáneo",
+        "publishedWinRate": "98.11",
+        "logo": "assets/025f08188dfe2f32.webp",
+        "sourcePaymentLogos": [
+          "visa",
+          "mastercard",
+          "skrill",
+          "neteller",
+          "postepay",
+          "applepay"
+        ],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-casino777"
+    },
+    {
+      "id": "44aces",
+      "name": "44Aces Casino",
+      "ranking": {
+        "value": 4,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.44-aces.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/skill-net-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "Skill On Net SA",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/skill-net-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/skill-net-sa"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/e2503997e5bc0cf4.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "withdrawalTiming": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "withdrawalLimits": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "verification": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "bonus": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "games": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "restrictions": [],
+      "missingData": [
+        "Withdrawal methods, speed, limits, verification details and bonus rules; public operator page was inaccessible"
+      ],
+      "reference": {
+        "sourceSlug": "44aces",
+        "name": "44Aces Casino",
+        "ranking": 4,
+        "publishedPayout": "0-3 días",
+        "publishedWinRate": "97.69",
+        "logo": "assets/e2503997e5bc0cf4.webp",
+        "sourcePaymentLogos": [],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-44aces"
+    },
+    {
+      "id": "tonybet",
+      "name": "TonyBet Casino",
+      "ranking": {
+        "value": 5,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.tonybet.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/eurobox-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "Eurobox SA",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/eurobox-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/eurobox-sa"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/0ca558eebf942ec5.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": [
+          "Skrill",
+          "Neteller",
+          "PayPal",
+          "Visa",
+          "Mastercard",
+          "Brite",
+          "Bank transfer"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://blog.tonybet.es/other-casino/metodos-pago-tonybet-espana-depositos-retiradas/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Official operator blog, not contractual cashier output. Availability should be checked in account."
+      },
+      "withdrawalTiming": {
+        "value": {
+          "processing": "Up to 24 working hours for verified accounts",
+          "settlementAfterApproval": {
+            "eWallets": "Almost immediate",
+            "cards": "1–5 business days",
+            "bankTransfer": "1–5 business days",
+            "brite": "Accelerated, precise time not established"
+          },
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "medium",
+        "sourceUrls": [
+          "https://blog.tonybet.es/other-casino/metodos-pago-tonybet-espana-depositos-retiradas/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "withdrawalLimits": {
+        "value": {
+          "currency": "EUR",
+          "minimumByMethod": {
+            "eWallets": 10,
+            "cards": 10,
+            "brite": 10
+          },
+          "bankTransferMinimum": null,
+          "maximum": null
+        },
+        "verified": true,
+        "confidence": "medium",
+        "sourceUrls": [
+          "https://blog.tonybet.es/other-casino/metodos-pago-tonybet-espana-depositos-retiradas/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Blog says full real-balance bank withdrawal has no stated minimum; do not infer a maximum."
+      },
+      "verification": {
+        "value": "Documentary verification required before withdrawing; DNI/NIE, address proof and sometimes payment-method proof requested.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://blog.tonybet.es/other-casino/metodos-pago-tonybet-espana-depositos-retiradas/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "bonus": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "games": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "restrictions": [
+        {
+          "value": "Use the depositing method and a payment account in the same name. Bank/provider delays may apply.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://blog.tonybet.es/other-casino/metodos-pago-tonybet-espana-depositos-retiradas/"
+          ],
+          "accessedAt": "2026-10-30"
+        }
+      ],
+      "missingData": [
+        "Numeric maximum withdrawal limits",
+        "Current bonus rules",
+        "Banking cashier confirmation of blog information"
+      ],
+      "reference": {
+        "sourceSlug": "tonybet",
+        "name": "TonyBet Casino",
+        "ranking": 5,
+        "publishedPayout": "Mismo día",
+        "publishedWinRate": "97.84",
+        "logo": "assets/0ca558eebf942ec5.webp",
+        "sourcePaymentLogos": [],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-tonybet"
+    },
+    {
+      "id": "playuzu",
+      "name": "PlayUZU Casino",
+      "ranking": {
+        "value": 6,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.playuzu.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/skill-net-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "Skill On Net SA",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/skill-net-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/skill-net-sa"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/83bcd5c915f4f412.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": [
+          "Visa",
+          "Mastercard"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.playuzu.es/metodos-de-pagos/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Only these method-specific withdrawal cards were visible. Generic e-wallet marketing is insufficient to confirm PayPal withdrawals."
+      },
+      "withdrawalTiming": {
+        "value": {
+          "operatorPublishedClaim": "Most withdrawals processed immediately and received in minutes with most methods",
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "medium",
+        "sourceUrls": [
+          "https://www.playuzu.es/ayuda/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Conditional operator claim; manual review may delay payment."
+      },
+      "withdrawalLimits": {
+        "value": {
+          "currency": "EUR",
+          "minimumByMethod": {
+            "Visa": 0,
+            "Mastercard": 0
+          },
+          "maximum": null
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.playuzu.es/metodos-de-pagos/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "The published maximum says see cashier; do not replace it with unlimited."
+      },
+      "verification": {
+        "value": "All players must submit documents. Extra checks may occur at first withdrawal.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.playuzu.es/ayuda/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Conflicting FAQ targets (<12h versus <30min); neither guaranteed."
+      },
+      "bonus": {
+        "value": {
+          "operatorPolicy": "FAQ states bonuses/promotions have no wagering requirement",
+          "offerSpecificEligibility": null
+        },
+        "verified": true,
+        "confidence": "medium",
+        "sourceUrls": [
+          "https://www.playuzu.es/ayuda/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Offer-specific conditions still require checking."
+      },
+      "games": {
+        "value": [
+          "slots"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.playuzu.es/ayuda/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "restrictions": [
+        {
+          "value": "Normally return to original deposit method; another method may be needed if return to prepaid method is impossible. Manual review can occur.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.playuzu.es/ayuda/"
+          ],
+          "accessedAt": "2026-10-30"
+        }
+      ],
+      "missingData": [
+        "Maximum withdrawal amounts",
+        "PayPal withdrawal availability",
+        "Consistent guaranteed verification SLA",
+        "Individual promotion terms"
+      ],
+      "reference": {
+        "sourceSlug": "playuzu",
+        "name": "PlayUZU Casino",
+        "ranking": 6,
+        "publishedPayout": "Instantáneo",
+        "publishedWinRate": "97.91",
+        "logo": "assets/83bcd5c915f4f412.webp",
+        "sourcePaymentLogos": [],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-playuzu"
+    },
+    {
+      "id": "gran-madrid",
+      "name": "Casino Gran Madrid",
+      "ranking": {
+        "value": 7,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.granmadrid.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/esgaming-sau"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "Esgaming SAU",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/esgaming-sau"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/esgaming-sau"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/ad91ea8d695b53b6.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": [
+          "Bank transfer"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://granmadrid.zendesk.com/hc/es/articles/39830465683985-Preguntas-r%C3%A1pidas"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Bank-account settlement explicitly discussed; other methods not confirmed here."
+      },
+      "withdrawalTiming": {
+        "value": {
+          "processing": "Not verified",
+          "bankSettlementAfterApproval": "Up to 72 business hours",
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://granmadrid.zendesk.com/hc/es/articles/39830465683985-Preguntas-r%C3%A1pidas"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "withdrawalLimits": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "verification": {
+        "value": "Account and all depositing payment methods must be verified; high-demand identity checks may take several days.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://granmadrid.zendesk.com/hc/es/articles/39830465683985-Preguntas-r%C3%A1pidas"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "bonus": {
+        "value": "Withdrawal request blocks bonuses and related winnings; approved withdrawals remove them. Specific offer terms not verified.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://granmadrid.zendesk.com/hc/es/articles/39830465683985-Preguntas-r%C3%A1pidas"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "games": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "restrictions": [],
+      "missingData": [
+        "Complete withdrawal-method list",
+        "Withdrawal limits and processing time before approval",
+        "Current offer-specific bonus rules"
+      ],
+      "reference": {
+        "sourceSlug": "casino-gran-madrid",
+        "name": "Casino Gran Madrid",
+        "ranking": 7,
+        "publishedPayout": "Mismo día",
+        "publishedWinRate": "97.69",
+        "logo": "assets/ad91ea8d695b53b6.webp",
+        "sourcePaymentLogos": [],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-casino-gran-madrid"
+    },
+    {
+      "id": "betinia",
+      "name": "Betinia Casino",
+      "ranking": {
+        "value": 8,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.betinia.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/iberix-gaming-sa-unipersonal"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "Iberix Gaming SA Unipersonal",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/iberix-gaming-sa-unipersonal"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/iberix-gaming-sa-unipersonal"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/a3fee333b1114c13.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "withdrawalTiming": {
+        "value": {
+          "processing": "Within 24 hours after required checks, subject to bank/payment-service availability",
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://betinia.es/es/rules"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "withdrawalLimits": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "verification": {
+        "value": "May request updated ID, payment ownership proof and biometric checks before withdrawal; processing clock pauses during additional verification.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://betinia.es/es/rules"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "bonus": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "games": {
+        "value": [
+          "slots",
+          "roulette",
+          "blackjack",
+          "live casino"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://betinia.es/es/"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Visible game categories and listings."
+      },
+      "restrictions": [
+        {
+          "value": "Terms require access from Spain using a Spanish IP and prohibit tools hiding connection origin.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://betinia.es/es/rules"
+          ],
+          "accessedAt": "2026-10-30"
+        },
+        {
+          "value": "Public payments response showed no payment entries. Deposit methods from the homepage must not be relabelled as withdrawals.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://betinia.es/es/payments"
+          ],
+          "accessedAt": "2026-10-30"
+        }
+      ],
+      "missingData": [
+        "Withdrawal methods and numeric method limits",
+        "Current bonus conditions",
+        "Method-specific settlement times"
+      ],
+      "reference": {
+        "sourceSlug": "betinia",
+        "name": "Betinia Casino",
+        "ranking": 8,
+        "publishedPayout": "1-3 días",
+        "publishedWinRate": "97.51",
+        "logo": "assets/a3fee333b1114c13.webp",
+        "sourcePaymentLogos": [],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-betinia"
+    },
+    {
+      "id": "luckia",
+      "name": "Luckia Casino",
+      "ranking": {
+        "value": 9,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.luckia.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/luckia-games-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "Luckia Games SA",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/luckia-games-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/luckia-games-sa"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/21c9e85a7917d2e9.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "withdrawalTiming": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "withdrawalLimits": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "verification": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "bonus": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "games": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "restrictions": [],
+      "missingData": [
+        "Withdrawal methods, limits, timing, verification and bonus rules: operator homepage returned HTTP451 to fetch; no substitution from third-party reviews"
+      ],
+      "reference": {
+        "sourceSlug": "luckia",
+        "name": "Luckia Casino",
+        "ranking": 9,
+        "publishedPayout": "Mismo día",
+        "publishedWinRate": "96.70",
+        "logo": "assets/21c9e85a7917d2e9.webp",
+        "sourcePaymentLogos": [],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-luckia"
+    },
+    {
+      "id": "leovegas",
+      "name": "LeoVegas Casino",
+      "ranking": {
+        "value": 10,
+        "verified": true,
+        "confidence": "parent_browser_snapshot",
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "officialDomain": {
+        "value": "https://www.leovegas.es",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/leoesp-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "legalEntity": {
+        "value": "LeoEsp SA",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/leoesp-sa"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "jurisdiction": {
+        "value": {
+          "countryCode": "ES",
+          "status": "evidenced_for_spanish_domain",
+          "notIndividualAccountApproval": true
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://www.ordenacionjuego.es/operadores-juego/operadores-licencia/operadores/leoesp-sa"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Jurisdiction gate may admit Spain only. No other countries are established. Adults must meet operator identity, exclusion, residence/location and other terms."
+      },
+      "reviewUrl": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Canonical Casino.org review URL not established by this research; use parent reference-page DOM if it contains one."
+      },
+      "logo": {
+        "value": "assets/2e8b68c1871a1b74.webp",
+        "verified": true,
+        "sourceUrls": [
+          "https://www.casino.org/payment/fastest-withdrawals/"
+        ],
+        "accessedAt": "2026-10-30",
+        "confidence": "browser_capture"
+      },
+      "withdrawalMethods": {
+        "value": [
+          "Visa",
+          "Mastercard",
+          "Apple Pay",
+          "Google Pay",
+          "PayPal",
+          "Trustly / bank transfer",
+          "Skrill",
+          "Paysafecard"
+        ],
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://help.leovegas.com/hc/es/articles/206745159-Retiradas-de-fondos-en-LeoVegas-Todo-lo-que-necesitas-saber"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "withdrawalTiming": {
+        "value": {
+          "processing": "Normally up to five business days; method and validation can affect this",
+          "guaranteed": false,
+          "totalMaximumHours": null
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://help.leovegas.com/hc/es/articles/206745159-Retiradas-de-fondos-en-LeoVegas-Todo-lo-que-necesitas-saber"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Do not convert business days into a guaranteed 120-hour calendar bound."
+      },
+      "withdrawalLimits": {
+        "value": {
+          "minimum": 20,
+          "maximumByMethod": {
+            "Visa/Mastercard": 10000,
+            "Apple Pay": 10000,
+            "Google Pay": 10000,
+            "PayPal": 10000,
+            "Trustly / bank transfer": 50000,
+            "Skrill": 10000,
+            "Paysafecard": 1000
+          },
+          "currency": "EUR",
+          "period": "Not specified in the table"
+        },
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://help.leovegas.com/hc/es/articles/206745159-Retiradas-de-fondos-en-LeoVegas-Todo-lo-que-necesitas-saber"
+        ],
+        "accessedAt": "2026-10-30",
+        "note": "Numeric amount limits as shown in the Spanish help table; do not describe as daily/monthly limits. Currency follows Spanish account context."
+      },
+      "verification": {
+        "value": "Account validation must be complete; missing documentation prevents withdrawal.",
+        "verified": true,
+        "confidence": "high",
+        "sourceUrls": [
+          "https://help.leovegas.com/hc/es/articles/206745159-Retiradas-de-fondos-en-LeoVegas-Todo-lo-que-necesitas-saber"
+        ],
+        "accessedAt": "2026-10-30"
+      },
+      "bonus": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "games": {
+        "value": null,
+        "verified": false,
+        "confidence": "none",
+        "sourceUrls": [],
+        "accessedAt": null,
+        "note": "Not verified in accessible primary sources."
+      },
+      "restrictions": [
+        {
+          "value": "Same method as deposit; some Mastercard cards cannot receive withdrawals. Operator charges no withdrawal fee; provider fees may apply.",
+          "verified": true,
+          "confidence": "high",
+          "sourceUrls": [
+            "https://help.leovegas.com/hc/es/articles/206745159-Retiradas-de-fondos-en-LeoVegas-Todo-lo-que-necesitas-saber"
+          ],
+          "accessedAt": "2026-10-30"
+        }
+      ],
+      "missingData": [
+        "Method-specific payout speed",
+        "Limit period and account-specific cashier confirmation",
+        "Current bonus conditions"
+      ],
+      "reference": {
+        "sourceSlug": "leovegas",
+        "name": "LeoVegas Casino",
+        "ranking": 10,
+        "publishedPayout": "0-5 días",
+        "publishedWinRate": "97.69",
+        "logo": "assets/2e8b68c1871a1b74.webp",
+        "sourcePaymentLogos": [],
+        "sourceUrl": "https://www.casino.org/payment/fastest-withdrawals/",
+        "capturedAt": "2026-10-30"
+      },
+      "listingId": "listing-leovegas"
+    }
+  ],
+  "prototype": {
+    "mode": "A",
+    "label": "Simulated AI — deterministic matching",
+    "referenceCountry": "ES",
+    "capturedAt": "2026-10-30",
+    "editorialReviewRequired": true
+  }
+};
